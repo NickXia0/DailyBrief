@@ -19,17 +19,6 @@
 ·
 [📰 daily.leiting.tech](https://daily.leiting.tech) (path B · self-hosted server)
 
-<table>
-  <tr>
-    <td width="50%" align="center"><img src="docs/screenshots/tech.png" alt="Tech panel — GitHub Trending / X posts / AI media" width="100%"><br><sub>🧑‍💻 Tech — GH Trending + X posts + AI media</sub></td>
-    <td width="50%" align="center"><img src="docs/screenshots/trading.png" alt="Markets — 21-ticker technicals + AI commentary" width="100%"><br><sub>📈 Markets — 21-ticker technicals + AI commentary</sub></td>
-  </tr>
-  <tr>
-    <td width="50%" align="center"><img src="docs/screenshots/politics.png" alt="World — BBC / Guardian / NYT etc." width="100%"><br><sub>🌍 World — BBC / Guardian / NYT</sub></td>
-    <td width="50%" align="center"><img src="docs/screenshots/finance.png" alt="Finance — Bloomberg / WSJ / FT" width="100%"><br><sub>💰 Finance — Bloomberg / WSJ / FT</sub></td>
-  </tr>
-</table>
-
 ---
 
 ## ✨ Core features
@@ -50,11 +39,17 @@
 23 sources in zh mode / 22 in en mode, organized as:
 
 ### 🧑‍💻 Tech
+
+<p align="center"><img src="docs/screenshots/tech.png" alt="Tech panel — GitHub Trending / X posts / AI media" width="720"></p>
+
 - **GitHub Trending** · refreshed daily
 - **AI media** (merged): OpenAI / DeepMind / Hugging Face Blog / TLDR AI / Smol AI / Latent Space / MIT Tech Review
 - **X posts** (attentionvc-ai): curated AI thought-leader feed
 
 ### 📈 Markets (21 tickers, not news)
+
+<p align="center"><img src="docs/screenshots/trading.png" alt="Markets — 21-ticker technicals + AI commentary" width="720"></p>
+
 - **US stocks / ETFs**: SPY / QQQ / AAPL / MSFT / NVDA / GOOGL / TSLA / META
 - **Crypto**: BTC / ETH / SOL (+ alt.me Fear & Greed index + CoinGecko macro)
 - **China / HK**: BABA / PDD / JD / 0700.HK
@@ -62,9 +57,15 @@
 - **Macro signals**: ^VIX / ^TNX (10Y Treasury) / DXY
 
 ### 🌍 World
+
+<p align="center"><img src="docs/screenshots/politics.png" alt="World — BBC / Guardian / NYT etc." width="720"></p>
+
 **BBC / Guardian / NYT / NPR / DW Chinese / Al Jazeera / The Diplomat** — 7 major international outlets' World feeds
 
 ### 💰 Finance
+
+<p align="center"><img src="docs/screenshots/finance.png" alt="Finance — Bloomberg / WSJ / FT" width="720"></p>
+
 **Bloomberg / WSJ / FT / BBC Business / Economist** — 5 global finance heavyweights
 
 ### 💬 Community

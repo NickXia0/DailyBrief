@@ -19,17 +19,6 @@
 ·
 [📰 daily.leiting.tech](https://daily.leiting.tech)（B 方式 · 本地服务器部署）
 
-<table>
-  <tr>
-    <td width="50%" align="center"><img src="docs/screenshots/tech.png" alt="技术动态 — GitHub Trending / X 推文 / AI 媒体" width="100%"><br><sub>🧑‍💻 技术动态 — GH Trending + X 推文 + AI 媒体</sub></td>
-    <td width="50%" align="center"><img src="docs/screenshots/trading.png" alt="市场行情 — 21 ticker 技术指标 + AI 中文点评" width="100%"><br><sub>📈 市场行情 — 21 ticker 技术指标 + AI 中文点评</sub></td>
-  </tr>
-  <tr>
-    <td width="50%" align="center"><img src="docs/screenshots/politics.png" alt="时政观察 — BBC / Guardian / NYT 等国际要闻" width="100%"><br><sub>🌍 时政观察 — BBC / Guardian / NYT 国际要闻</sub></td>
-    <td width="50%" align="center"><img src="docs/screenshots/finance.png" alt="财经要点 — Bloomberg / WSJ / FT 全球财经" width="100%"><br><sub>💰 财经要点 — Bloomberg / WSJ / FT 全球财经</sub></td>
-  </tr>
-</table>
-
 ---
 
 ## ✨ 核心特性
@@ -50,11 +39,17 @@
 23 个数据源（zh 模式）/ 22 个（en 模式），分布如下：
 
 ### 🧑‍💻 技术动态
+
+<p align="center"><img src="docs/screenshots/tech.png" alt="技术动态 — GitHub Trending / X 推文 / AI 媒体" width="720"></p>
+
 - **GitHub Trending** · 热榜每日刷新
 - **AI 媒体**（merged）：OpenAI / DeepMind / Hugging Face Blog / TLDR AI / Smol AI / Latent Space / MIT Tech Review
 - **X 推文**（attentionvc-ai）：精选 AI 圈大佬动态
 
 ### 📈 市场行情（非新闻源，21 个标的）
+
+<p align="center"><img src="docs/screenshots/trading.png" alt="市场行情 — 21 ticker 技术指标 + AI 中文点评" width="720"></p>
+
 - **美股 / ETF**：SPY / QQQ / AAPL / MSFT / NVDA / GOOGL / TSLA / META
 - **加密**：BTC / ETH / SOL（附 alt.me 加密恐慌贪婪指数 + CoinGecko 总览）
 - **中港**：BABA / PDD / JD / 0700.HK
@@ -62,9 +57,15 @@
 - **宏观信号**：^VIX / ^TNX（10Y 美债）/ DXY（美元指数）
 
 ### 🌍 时政观察
+
+<p align="center"><img src="docs/screenshots/politics.png" alt="时政观察 — BBC / Guardian / NYT 等国际要闻" width="720"></p>
+
 **BBC / Guardian / NYT / NPR / DW 中文 / Al Jazeera / The Diplomat** — 7 家主流国际媒体的 World 频道
 
 ### 💰 财经要点
+
+<p align="center"><img src="docs/screenshots/finance.png" alt="财经要点 — Bloomberg / WSJ / FT 全球财经" width="720"></p>
+
 **Bloomberg / WSJ / FT / BBC Business / Economist** — 5 家全球财经主力
 
 ### 💬 社区讨论
