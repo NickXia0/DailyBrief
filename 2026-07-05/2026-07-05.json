@@ -1,137 +1,149 @@
 {
-  "hero_headline": "伊朗前最高领袖葬礼创纪录，乌克兰打击俄腹地能源",
-  "daily_overview": "全球技术领域，OpenAI发布ChatGPT全球化采用报告，显示用户增长与功能探索扩展；DeepMind与A24合作探索AI创意应用，Hugging Face联手Cerebras推出实时语音AI，阿里巴巴开源页面控制智能体Page-Agent，降低自动化门槛。财经方面，AI需求激增叠加补贴退出推高美国清洁能源价格，德国寻求经济反弹，委内瑞拉地震致近3000人遇难，美国热穹顶导致电价飙升。时政层面，伊朗为前最高领袖哈梅内伊举行规模空前的葬礼，预计2000万人参与；乌克兰无人机深入打击圣彼得堡石油设施，战争升级至俄腹地；德国选项党魏德尔连任，宣称要领导德国。全球多重挑战交织，从地缘冲突到极端天气与能源转型，影响深远。",
+  "hero_headline": "乌克兰打击圣彼得堡附近石油设施",
+  "daily_overview": "今日头条，乌克兰对圣彼得堡附近石油设施发动大规模无人机袭击，冲突升级至俄罗斯腹地。德国选项党主席魏德尔成功连任，极右翼影响力扩大。AI领域，OpenAI数据显示ChatGPT全球采用加速，DeepMind与A24达成创意合作，阿里巴巴发布Page Agent实现自然语言操控网页。财经方面，AI需求推高美国清洁电力价格，东部热浪致电价飙升；委内瑞拉地震官方死亡近3000人，灾后救援持续推进。",
   "tech_briefs": [
     {
-      "title": "ChatGPT全球采用范围扩大，用户使用多样化",
+      "title": "ChatGPT全球采用加速扩张",
       "url": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
       "source": "OpenAI News",
-      "summary": "OpenAI公布新数据称ChatGPT采用率全球增长，用户使用频率和能力探索均上升，跨区域及语言推动增长。",
+      "summary": "OpenAI数据显示ChatGPT在全球用户增长、功能探索以及跨区域多语言使用上均呈加速态势。",
       "importance": 8
     },
     {
-      "title": "DeepMind与A24宣布创意AI研究合作",
+      "title": "DeepMind与A24达成创意研究合作",
       "url": "https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership/",
       "source": "DeepMind Blog",
-      "summary": "Google DeepMind与电影工作室A24达成首次研究合作，探索AI在创意产业的应用。",
+      "summary": "Google DeepMind与独立电影公司A24宣布首次研究合作，探索AI在影视创意领域的应用。",
       "importance": 7
     },
     {
-      "title": "Hugging Face与Cerebras推出Gemma 4实时语音AI",
-      "url": "https://huggingface.co/blog/cerebras-gemma4-voice-ai",
-      "source": "Hugging Face Blog",
-      "summary": "Hugging Face与Cerebras合作，基于Gemma 4模型实现低延迟实时语音交互，推动语音AI落地。",
-      "importance": 7
-    },
-    {
-      "title": "阿里巴巴开源页面交互智能体Page-Agent",
+      "title": "阿里发布Page Agent：自然语言操控网页",
       "url": "https://github.com/alibaba/page-agent",
       "source": "GitHub Trending",
-      "summary": "阿里巴巴开源Page-Agent，通过自然语言指令控制网页界面，降低RPA开发门槛。",
-      "importance": 6
+      "summary": "阿里巴巴开源Page Agent项目，支持用自然语言指令控制网页界面，降低GUI自动化门槛。",
+      "importance": 8
     },
     {
-      "title": "OpenAI发布Genebench-Pro基因组学AI基准",
+      "title": "Hugging Face与Cerebras推出实时语音AI",
+      "url": "https://huggingface.co/blog/cerebras-gemma4-voice-ai",
+      "source": "Hugging Face Blog",
+      "summary": "Hugging Face与Cerebras合作，将Gemma 4模型应用于实时语音交互，提升低延迟对话AI能力。",
+      "importance": 7
+    },
+    {
+      "title": "OpenAI推出GeneBench-Pro基因组基准",
       "url": "https://openai.com/index/introducing-genebench-pro",
       "source": "OpenAI News",
-      "summary": "OpenAI推出Genebench-Pro，使用复杂真实数据集测试AI在基因组学、生物学及科学研究的性能。",
+      "summary": "OpenAI发布GeneBench-Pro，使用复杂真实数据集测试AI在基因组学、生物学和科学研究中的表现。（多家报道）",
       "importance": 7
     }
   ],
   "finance_briefs": [
     {
-      "title": "德国寻求二次增长反弹机会",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-04/germany-s-second-chance-for-growth-rebound-starts-now",
-      "source": "Bloomberg Markets",
-      "summary": "德国下周数据将显示伊朗战争累积影响，政府再次尝试提振欧洲最大经济体经济活力。",
-      "importance": 8
-    },
-    {
-      "title": "AI需求与补贴削减推高美国清洁能源价格",
-      "url": "https://www.ft.com/content/911ad6e1-154d-4d10-a7dc-2bd0fd6fbdc2",
-      "source": "Financial Times",
-      "summary": "清洁能源购买协议价格预计因AI需求增长及拜登时代补贴结束而大幅上涨，影响谷歌、Meta等公司。",
-      "importance": 8
-    },
-    {
       "title": "委内瑞拉地震官方死亡人数升至近3000",
       "url": "https://www.bloomberg.com/news/articles/2026-07-04/venezuela-quake-death-toll-climbs-to-nearly-3-000",
       "source": "Bloomberg Markets",
-      "summary": "委内瑞拉上周双震官方死亡人数近3000，救援工作持续，经济损失严重。",
+      "summary": "委内瑞拉上周双地震官方死亡人数累计近3000人，救援工作持续进行。",
       "importance": 9
     },
     {
-      "title": "美国热穹顶致超80万户断电电价飙升",
-      "url": "https://www.ft.com/content/76de196b-175f-4f5b-b10c-cc17bb2948d1",
+      "title": "美国清洁电力价格因AI需求与补贴削减飙升",
+      "url": "https://www.ft.com/content/911ad6e1-154d-4d10-a7dc-2bd0fd6fbdc2",
       "source": "Financial Times",
-      "summary": "美国东部热穹顶导致气温近40°C，超80万户家庭断电，电网压力推高电价。",
+      "summary": "Google、Meta等企业青睐的清洁电力购买协议价格预计大幅上涨，拜登时期支持政策到期也是推手。",
       "importance": 8
     },
     {
-      "title": "英国农民高温冲击后转向再生农业",
-      "url": "https://www.ft.com/content/96f06629-225a-4408-b0bb-d4869bb4c3bc",
+      "title": "美国东部热浪致电力价格飙升 80万户停电",
+      "url": "https://www.ft.com/content/76de196b-175f-4f5b-b10c-cc17bb2948d1",
       "source": "Financial Times",
-      "summary": "高温天气促使英国农民减少化学品和深耕，改善土壤保水能力，采取再生农业方法。",
-      "importance": 6
+      "summary": "美国东部「热穹」天气带来接近40摄氏度高温，电力需求激增，超过80万家庭停电。",
+      "importance": 8
+    },
+    {
+      "title": "德国迎来经济反弹的第二次机会",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-04/germany-s-second-chance-for-growth-rebound-starts-now",
+      "source": "Bloomberg Markets",
+      "summary": "德国下周数据将显示伊朗战争的累积影响，政府试图重振欧洲最大经济体的企业信心。",
+      "importance": 7
+    },
+    {
+      "title": "BBC调查发现Instagram在印度推广儿童性虐待内容",
+      "url": "https://www.bbc.co.uk/news/articles/cvgm4e0316zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "summary": "BBC发现Instagram广告中使用「强奸」、「儿童视频」等词汇链接至Telegram上的非法内容。",
+      "importance": 7
     }
   ],
   "politics_briefs": [
     {
-      "title": "伊朗为前最高领袖举行大规模葬礼，人数创纪录",
-      "url": "https://www.bbc.co.uk/news/videos/c23y22z4ppxo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "summary": "伊朗前最高领袖哈梅内伊葬礼预计吸引2000万人参加，第二日民众无视高温持续悼念。（多家报道）",
-      "importance": 10
-    },
-    {
-      "title": "乌克兰打击圣彼得堡石油设施，战争进入新阶段",
+      "title": "乌克兰深入打击俄罗斯能源设施 战争进入新阶段",
       "url": "https://www.bbc.co.uk/news/articles/c8j2vmzxezro?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "summary": "乌克兰总统泽连斯基证实无人机袭击圣彼得堡附近石油终端，旨在削弱俄能源收入；乌克兰宣称可打击俄境内纵深目标。（多家报道）",
+      "summary": "乌克兰对圣彼得堡附近石油终端发动大规模无人机袭击，旨在削弱俄罗斯战争收入。专家称俄开始失去战略优势。（多家报道）",
       "importance": 9
     },
     {
-      "title": "德国选项党主席魏德尔连任，称要领导德国",
+      "title": "德国选项党主席魏德尔成功连任 主张领导德国",
       "url": "https://www.dw.com/zh/魏德尔成功连任-称afd要成为-新的人民党-领导德国/a-77833050?maca=chi-rss-chi-all-1127-rdf",
       "source": "DW 中文",
-      "summary": "民调领先的德国选项党主席魏德尔在党代会上连任，宣称政党目标是成为「新的人民党」并领导德国。",
-      "importance": 8
+      "summary": "民调领先的德国选项党主席魏德尔在党代会上连任，称该党将成为「新的人民党」领导德国，并计划放宽入党限制。",
+      "importance": 9
+    },
+    {
+      "title": "丹麦百年7月4日庆典因格陵兰争议而改",
+      "url": "https://www.nytimes.com/live/2026/07/04/us/america-250-celebrations-fourth-july/denmarks-century-old-fourth-of-july-party-looks-different-this-year",
+      "source": "NYT World",
+      "summary": "由于特朗普威胁夺取格陵兰，丹麦百年7月4日庆祝活动移除美国官员，并出现抗议。",
+      "importance": 7
     }
   ],
-  "editor_note": "伊朗葬礼与乌克兰战事升级凸显地缘震荡，AI加速渗透各行业，能源与气候压力考验全球治理。",
+  "editor_note": "俄乌冲突持续激化，德国极右翼势头强劲，AI热潮推高能源成本，全球地缘与科技版图加速重塑。",
   "keywords": [
-    "伊朗",
-    "乌克兰",
-    "AI",
-    "能源价格",
+    "俄乌冲突",
+    "德国AfD",
+    "人工智能",
+    "清洁能源价格",
+    "委内瑞拉地震",
     "ChatGPT",
-    "魏德尔",
-    "地震",
-    "热穹顶"
+    "DeepMind",
+    "阿里Page Agent"
   ],
   "trading": {
-    "market_overview": "当前市场技术面分化明显。美股方面，标普500 ETF（SPY）RSI 53.5且均线多头排列，接近52周高点，偏强；但纳斯达克100 ETF（QQQ）单日下跌1.73%跌破20日均线，科技股内部强弱不一，苹果（AAPL）日涨4.84%且MACD金叉，而英伟达（NVDA）和特斯拉（TSLA）则处于空头排列或跌破均线。加密市场受恐慌情绪主导，加密恐慌贪婪指数仅22（极度恐慌），总市值2.27T，比特币和以太坊虽出现MACD金叉，但价格仍低于50日和200日均线，空头排列未改，整体下行压力较大。中概股普遍偏弱，阿里巴巴RSI 23.8进入超卖区，价格远低于所有均线；拼多多、京东等空头排列。商品外汇方面，黄金期货空头排列且均线死叉，原油RSI 28.9超卖但趋势仍弱，美元指数多头排列但MACD死叉，美元/人民币接近52周低点且空头排列。整体上，多头动能集中在少数美股蓝筹，多数资产仍受空头压制，技术面信号矛盾较多。",
+    "market_overview": "截至当前数据，美股市场出现显著分化：标普500 ETF（SPY）受多头排列支撑小幅回落，但纳指（QQQ）日跌1.73%且MACD柱转负，科技龙头Apple（AAPL）因日涨4.84%并形成MACD金叉而表现强势，而特斯拉（TSLA）日跌7.49%后RSI滑至46.8，空头排列明确。中概股整体承压，阿里巴巴（BABA）RSI深陷23.8严重超卖，京东（JD）和腾讯（0700.HK）均处于空头排列格局。商品与外汇方面，黄金期货（GC=F）日涨1.81%但MACD金叉刚现，WTI原油（CL=F）RSI 28.9超卖且死叉运行，美元/人民币（USDCNY=X）接近52周低位，美元指数（DX-Y.NYB）虽维持多头排列但MACD死叉。加密资产方面，比特币（BTC-USD）在高达55.7%的主导率下RSI中性但空头排列，以太坊（ETH-USD）RSI 56.7略强仍处空头趋势，结合加密货币恐慌与贪婪指数仅23（极度恐慌）及总市值2.27万亿美元（24h微升0.53%），市场情绪极度谨慎。宏观指标中VIX恐慌指数日跌4.7%、MACD死叉并空头排列，暗示短期避险情绪降温，但10年美债收益率（^TNX）数据缺失且无趋势信号。",
     "watchlist": [
       {
         "symbol": "AAPL",
         "display_name": "Apple (AAPL)",
         "stance": "偏上行",
-        "rationale": "日涨幅4.84%，5日涨幅12.17%，RSI 60.3处于正常偏强区间，MACD金叉（-0.686 > -0.9471），股价308.63高于所有均线（sma20=294.8, sma50=293.52, sma200=270.69），均线多头排列，且距52周高点仅-2.76%，短期动量与技术结构均指向偏上行。"
+        "rationale": "日涨幅4.84%，5日涨幅12.17%，RSI 60.3处于正常偏强区间；MACD金叉（-0.686 > 信号-0.9471），MACD柱转正，股价站稳SMA20(294.8)、SMA50(293.52)、SMA200(270.69)之上，多头排列明显，且距52周高仅-2.76%，显示强劲的上行技术结构。"
       },
       {
         "symbol": "BABA",
         "display_name": "阿里巴巴 (BABA)",
         "stance": "偏下行",
-        "rationale": "RSI 23.8处于超卖区域，价格96.14远低于sma20（107.43）、sma50（122.9）和sma200（147.08），均线空头排列明显；MACD值为-8.3141低于信号线-7.8115，绿柱持续扩大，空头动能未减，下行压力显著。"
+        "rationale": "RSI 23.8进入严重超卖区，股价远低于SMA20(107.43)、SMA50(122.9)和SMA200(147.08)，空头排列确立；MACD柱-8.3141位于信号线-7.8115下方，死叉运行中，5日涨幅1.13%未能扭转下跌趋势，技术面极度弱势。"
       },
       {
-        "symbol": "BTC-USD",
-        "display_name": "Bitcoin (BTC-USD)",
+        "symbol": "SOL-USD",
+        "display_name": "Solana (SOL-USD)",
         "stance": "中性",
-        "rationale": "RSI 49.9处于中性区间，MACD出现金叉（-1494.1 > -2028.8），短期动量有改善迹象；但价格63085仍低于sma50（67045）和sma200（74826），趋势仍为空头排列，多空信号矛盾，方向不明朗。"
+        "rationale": "RSI 63.8处于中性偏强区间但未超买，MACD柱1.6196高于信号线-0.037，形成金叉迹象；价格高于SMA20(73.26)和SMA50(75.41)但低于SMA200(93.55)，整体趋势标记为neutral，无额外信号，方向不明确。"
+      },
+      {
+        "symbol": "CL=F",
+        "display_name": "WTI 原油期货 (CL=F)",
+        "stance": "偏下行",
+        "rationale": "RSI 28.9进入超卖区，MACD柱-6.4072低于信号线-6.0872，死叉运行；价格远低于SMA20(77.43)、SMA50(89.85)和SMA200(74.04)，空头排列明显，5日下跌0.65%进一步确认下行压力。"
+      },
+      {
+        "symbol": "^VIX",
+        "display_name": "VIX 恐慌指数 (^VIX)",
+        "stance": "偏下行",
+        "rationale": "日跌幅4.7%，5日跌幅16.3%，MACD死叉（MACD -0.2509 < 信号-0.0526），MACD柱负向扩大；价格低于SMA20(18.1)、SMA50(17.63)和SMA200(18.67)，空头排列，反映市场恐慌情绪持续消退，技术面偏弱。"
       }
     ],
-    "risk_caveat": "过去走势不代表未来表现，本报告仅基于公开行情数据的技术指标解读，不构成任何投资建议。所有分析均为客观描述，仅供技术面参考。",
+    "risk_caveat": "过去走势不代表未来表现，本报告仅基于当前位置的技术指标客观解读，不构成任何买卖建议。所有结论仅供技术分析参考，实际投资决策需结合基本面与个人风险承受能力综合判断。",
     "tickers": [
       {
         "symbol": "SPY",
@@ -379,18 +391,18 @@
         "group": "crypto",
         "currency": "USD",
         "exchangeName": "CCC",
-        "currentPrice": 63085.09,
-        "pct1Day": 0.8648136645865697,
-        "pct5Day": 4.89988447866817,
-        "pct52WeekHigh": -50.01105008975178,
-        "pct52WeekLow": 9.242477016340326,
-        "sma20": 62143.2248046875,
-        "sma50": 67045.052421875,
-        "sma200": 74826.521953125,
-        "rsi14": 49.867771838106385,
-        "macd": -1494.1162822173283,
-        "macdSignal": -2028.8085863163633,
-        "macdHistogram": 534.692304099035,
+        "currentPrice": 63001.39,
+        "pct1Day": 0.7309883042086166,
+        "pct5Day": 4.7607054693196185,
+        "pct52WeekHigh": -50.077374400416744,
+        "pct52WeekLow": 9.097536344522828,
+        "sma20": 62139.03984375,
+        "sma50": 67043.3784375,
+        "sma200": 74826.10345703125,
+        "rsi14": 49.564988379771414,
+        "macd": -1500.7931429734745,
+        "macdSignal": -2030.1439584690706,
+        "macdHistogram": 529.3508154955962,
         "trend": "bearish",
         "rsiState": "normal",
         "signals": [
@@ -411,18 +423,18 @@
         "group": "crypto",
         "currency": "USD",
         "exchangeName": "CCC",
-        "currentPrice": 1778.58,
-        "pct1Day": 1.2559686118970443,
-        "pct5Day": 10.456687483691288,
-        "pct52WeekHigh": -64.09616747612357,
-        "pct52WeekLow": 18.059958219872648,
-        "sma20": 1675.7457946777345,
-        "sma50": 1816.2806323242187,
-        "sma200": 2268.0739764404298,
-        "rsi14": 57.03185765017955,
-        "macd": -32.602985504378694,
-        "macdSignal": -60.782850685441204,
-        "macdHistogram": 28.17986518106251,
+        "currentPrice": 1774.7,
+        "pct1Day": 1.0350771376793264,
+        "pct5Day": 10.21572449780552,
+        "pct52WeekHigh": -64.17449224655427,
+        "pct52WeekLow": 17.802385121599247,
+        "sma20": 1675.5517944335938,
+        "sma50": 1816.2030322265625,
+        "sma200": 2268.0545764160156,
+        "rsi14": 56.71728697917893,
+        "macd": -32.912501563453816,
+        "macdSignal": -60.844753897316465,
+        "macdHistogram": 27.93225233386265,
         "trend": "bearish",
         "rsiState": "normal",
         "signals": [
@@ -438,18 +450,18 @@
         "group": "crypto",
         "currency": "USD",
         "exchangeName": "CCC",
-        "currentPrice": 81.7,
-        "pct1Day": -0.7049822469273779,
-        "pct5Day": 9.010635695539717,
-        "pct52WeekHigh": -67.7342789519683,
-        "pct52WeekLow": 35.23194347337867,
-        "sma20": 73.2703670501709,
-        "sma50": 75.41682266235351,
-        "sma200": 93.54916110992431,
-        "rsi14": 64.32726795289577,
-        "macd": 1.6379729331254964,
-        "macdSignal": -0.03336416037839707,
-        "macdHistogram": 1.6713370935038934,
+        "currentPrice": 81.47,
+        "pct1Day": -0.984515344641051,
+        "pct5Day": 8.703751409003923,
+        "pct52WeekHigh": -67.82511268319288,
+        "pct52WeekLow": 34.85124155172778,
+        "sma20": 73.25886726379395,
+        "sma50": 75.41222274780273,
+        "sma200": 93.54801113128661,
+        "rsi14": 63.791061250119455,
+        "macd": 1.619625695597719,
+        "macdSignal": -0.03703360788814647,
+        "macdHistogram": 1.6566593034858657,
         "trend": "neutral",
         "rsiState": "normal",
         "signals": []
@@ -763,19 +775,19 @@
       }
     ],
     "crypto_fear_greed": {
-      "value": 22,
+      "value": 23,
       "classification": "Extreme Fear",
       "classificationCn": "极度恐慌",
-      "timestamp": "2026-07-04T00:00:00.000Z"
+      "timestamp": "2026-07-05T00:00:00.000Z"
     },
     "crypto_global": {
-      "totalMarketCapUsd": 2270093560847.035,
-      "total24hVolumeUsd": 52592109646.55288,
-      "marketCapChangePct24h": 0.7684515192801696,
-      "btcDominance": 55.682300811491245,
-      "ethDominance": 9.445385096176977,
+      "totalMarketCapUsd": 2268603149191.626,
+      "total24hVolumeUsd": 52511929542.11683,
+      "marketCapChangePct24h": 0.5339000975076259,
+      "btcDominance": 55.69389930756754,
+      "ethDominance": 9.446716914048082,
       "activeCryptocurrencies": 17362
     },
-    "generated_at": "2026-07-04T23:37:30.207Z"
+    "generated_at": "2026-07-05T00:13:30.269Z"
   }
 }
